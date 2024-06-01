@@ -22,3 +22,6 @@ This tool provides an interactive interface to demonstrate how the A* algorithm 
 `Path` : ![#FFA500](https://placehold.co/10x10/FFA500/FFA500.png) 
 
 ##
+![](screenshots/s1.png)
+![](screenshots/s2.png)
+![](screenshots/s3.png)
