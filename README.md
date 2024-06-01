@@ -17,4 +17,4 @@ This tool provides an interactive interface to demonstrate how the A* algorithm 
    - Press the space bar to start the A* search.
    - Press the 'R' key to reset the grid.
 
-![#00FF00](https://placehold.co/10x10/00FF00/00FF00.png) : Start Node
+Start Node : ![#00FF00](https://placehold.co/10x10/00FF00/00FF00.png)
